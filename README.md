@@ -24,3 +24,7 @@
   3-1) 공지사항<br/>
   3-2) QnA<br/>
  
+ ---
+ ## 3. ERD
+ ---
+![image](https://user-images.githubusercontent.com/44846071/229299155-f2c9b986-419c-4a79-a375-0c77a6c5609c.png)
